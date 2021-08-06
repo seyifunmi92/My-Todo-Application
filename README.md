@@ -1,4 +1,6 @@
-# seyitodo
+My Todos
+
+A simple Todo Application which can serve as a daily reminder 
 
 A new Flutter project.
 
